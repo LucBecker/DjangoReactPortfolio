@@ -18,7 +18,7 @@ class Migration(migrations.Migration):
                 ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
                 ('title', models.CharField(blank=True, max_length=20, null=True)),
                 ('title_2', models.CharField(blank=True, max_length=100, null=True)),
-                ('description_one', models.TextField(blank=True, null=True)),
+                ('description_one', ckeditor.fields.RichTextField(blank=True, null=True)),
                 ('description_two', models.TextField(blank=True, null=True)),
                 ('about_avatar', models.CharField(blank=True, max_length=100, null=True, verbose_name='Google Drive Image Id')),
             ],
