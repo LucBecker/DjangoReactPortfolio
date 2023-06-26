@@ -11,7 +11,7 @@
 ### Step 1:Clone the repository
      git clone https://github.com/LucBecker/ReactDjangoPortfolio.git
 ### step 2:Navigate to the clone 
-     cd your_path/ReactDjangoPortfolio
+     cd your_path/DjangoReactPortfolio
 ### Step 3: Install Node.js dependencies:
      npm install    
 ### Step 4:
