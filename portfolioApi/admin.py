@@ -7,7 +7,5 @@ admin.site.register(AboutMe)
 admin.site.register(SocialMediaLinks)
 admin.site.register(ServicesOffred)
 admin.site.register(Project)
-
 admin.site.register(LanguagesIcons)
 admin.site.register(MyContact)
-admin.site.register(MyProgress)
