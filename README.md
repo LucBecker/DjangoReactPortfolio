@@ -26,7 +26,7 @@
      python manage.py runserver
 
      
-### Não funcionou, não se preocupe, você pode executá-los separadamente, django separado do react. Eu sei que você sabe como 😊. 
+### Não funcionou para você, não se preocupe, você pode executá-los separadamente, django separado do react. Eu sei que você sabe como 😊. 
 ### Ainda não funcionou😢, não se preocupe, apenas entre em contato comigo ou visite nosso adorável amigo stackoverflow. 
 
 
