@@ -26,7 +26,8 @@
      python manage.py runserver
 
      
-###
-###
+### Não funcionou, não se preocupe, você pode executá-los separadamente, django separado do react. Eu sei que você sabe como 😊. 
+### Ainda não funcionou😢, não se preocupe, apenas entre em contato comigo ou visite nosso adorável amigo stackoverflow. 
+
 
 <a href="https://www.buymeacoffee.com/jameswaweru" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
